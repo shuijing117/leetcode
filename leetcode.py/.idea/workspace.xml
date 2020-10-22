@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="689a0912-94fc-4f31-b42a-0323584c9c6b" name="Default Changelist" comment="" />
+    <list default="true" id="689a0912-94fc-4f31-b42a-0323584c9c6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode0925.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode0143.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode0143.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode0844.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode0844.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode925.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode0763.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Z99XxzfuGIYVT2yQvbDKu2Dbsy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,28 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.leetcode0002">
-    <configuration name="leetcode0001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode.py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.leetcode0763">
     <configuration name="leetcode0002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode0011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode0143" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +69,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0143.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode0763" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0763.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode0844" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0844.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode0925" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode0925.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,9 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leetcode0763" />
+        <item itemvalue="Python.leetcode0925" />
+        <item itemvalue="Python.leetcode0143" />
+        <item itemvalue="Python.leetcode0844" />
         <item itemvalue="Python.leetcode0002" />
-        <item itemvalue="Python.leetcode0001" />
-        <item itemvalue="Python.leetcode0011" />
       </list>
     </recent_temporary>
   </component>
@@ -110,37 +165,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="210" key="GridCell.Tab.0.bottom" timestamp="1585265445005">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom" timestamp="1603374153078">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1419" height="210" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585265445005" />
-    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1584318460205" />
-    <state width="1419" height="210" key="GridCell.Tab.0.center" timestamp="1585265445004">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603116964331" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603288429814" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603374153078" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center" timestamp="1603374153077">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1419" height="210" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585265445004" />
-    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1584318460205" />
-    <state width="1419" height="210" key="GridCell.Tab.0.left" timestamp="1585265445004">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603116964331" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1603288429813" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603374153077" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left" timestamp="1603374153076">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1419" height="210" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585265445004" />
-    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1584318460204" />
-    <state width="1419" height="210" key="GridCell.Tab.0.right" timestamp="1585265445005">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603116964330" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1603288429813" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603374153076" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right" timestamp="1603374153077">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1419" height="210" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585265445005" />
-    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1584318460205" />
-    <state x="221" y="73" key="SettingsEditor" timestamp="1584240970597">
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603116964331" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1603288429814" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603374153077" />
+    <state width="1419" height="263" key="GridCell.Tab.1.bottom" timestamp="1603201087392">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="221" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1584240970597" />
-    <state x="374" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584240497816">
+    <state width="1419" height="263" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603201087392" />
+    <state width="1419" height="263" key="GridCell.Tab.1.center" timestamp="1603201087391">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="374" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1584240497816" />
-    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1585232207635">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="263" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1603201087391" />
+    <state width="1419" height="263" key="GridCell.Tab.1.left" timestamp="1603201087391">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1585232207635" />
+    <state width="1419" height="263" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1603201087391" />
+    <state width="1419" height="263" key="GridCell.Tab.1.right" timestamp="1603201087392">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="263" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1603201087392" />
   </component>
 </project>
